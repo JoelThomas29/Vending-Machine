@@ -1,0 +1,11 @@
++-----------------------------+
+|  Receipt for you purchase   |
++-----------------------------+
+| 1. Lays -  5                |
+| 2. Minute Maid -  1         |
+| 3. Dairy Milk -  0          |
++-----------------------------+
+  # Total spent : $ 35 
+  # Balance : $ 5 
+           ********
+ ** Thank You! Visit us soon ** 
